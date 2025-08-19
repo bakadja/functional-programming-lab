@@ -1,5 +1,6 @@
 # Functional Programming Lab
-[![License](https://img.shields.io/github/license/bakadja/functional-programming-lab)](LICENSE)
+![GitHub License](https://img.shields.io/github/license/bakadja/functional-programming-lab)
+
 
 A collection of functional programming experiments and utilities built with React and Vite.
 
